@@ -1,4 +1,4 @@
-# Fairness without the Sensitive Attribute via Causal Variational Autoencoder
+# Fairness without the Sensitive Attribute via Causal Variational Autoencoder (SRCVAE)
 
 This work has been accepted at the IJCAI 2022 conference.
 
