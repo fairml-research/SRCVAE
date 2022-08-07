@@ -13,4 +13,7 @@ underlying causal graph. The bias mitigation is then done in an adversarial fair
 approach achieves a higher accuracy while obtaining the same level of fairness on two real datasets.
 
 
-![alt text](https://github.com/fairml-research/FAIRNESS_WITHOUT_SENSITIVE/blob/main/causal.png?raw=true)
+<p align="center">
+  <img src="[your_relative_path_here](https://github.com/fairml-research/FAIRNESS_WITHOUT_SENSITIVE/blob/main/causal.png?raw=true)" width="350" title="hover text">
+</p>
+
