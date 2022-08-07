@@ -2,6 +2,8 @@
 
 This work has been accepted at the IJCAI 2022 conference.
 
+https://www.ijcai.org/Proceedings/2022/0098.pdf
+
 In recent years, most fairness strategies in machine learning have focused on mitigating unwanted biases by assuming that the sensitive information is
 available. However, in practice this is not always the case: due to privacy purposes and regulations such as RGPD in EU, many personal sensitive attributes are frequently not collected. Yet, only a
 few prior works address the issue of mitigating bias in this diffcult setting, in particular to meet classical fairness objectives such as Demographic
